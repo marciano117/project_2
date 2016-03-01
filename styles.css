@@ -1,0 +1,123 @@
+/*CSS Reset starts here! ----------------------------  */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*CSS Reset ends here! -----------------------------  */
+
+body {
+  background-color: #AFAFAF;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: 'Ubuntu';
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#introcontent {i
+  position: relative;
+  text-align: center;
+}
+
+#doomPhoto {
+  margin-bottom: 2em;
+}
+
+#form {
+  font-family: 'Ubuntu';
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#subscribe {
+  font-family: 'Ubuntu';
+  font-size: 1.25em;
+  background-color: #cc0000;
+  color: white;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+#usremail {
+  font-family: 'Ubuntu';
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+
+#video {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 51%;
+}
+
+#videotext {
+  margin-bottom: 2em;
+}
+
+#video iframe {
+  position: absolute;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+#goaltext, #bodytext, #videotext {
+  font-family: 'Ubuntu';
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 1.5em;
+  font-size: 1.25em;
+  line-height: 1.25em;
+}
