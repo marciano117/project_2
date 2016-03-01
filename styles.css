@@ -52,7 +52,7 @@ table {
 /*CSS Reset ends here! -----------------------------  */
 
 body {
-  background-color: #AFAFAF;
+  background-color: #7F6D6C;
 }
 
 h1 {
@@ -60,6 +60,7 @@ h1 {
   font-family: 'Ubuntu';
   margin-top: 1em;
   margin-bottom: 1em;
+  background-color: #CC0C00;
 }
 
 #introcontent {
