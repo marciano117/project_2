@@ -66,13 +66,13 @@ h1 {
 
 #introcontent {
   position: relative;
-  text-align: center;
 }
 
 #doomGuy, #doomCover {
   margin-top: 2em;
   margin-bottom: 2em;
   max-width: 70%;
+  text-align: center;
 }
 
 #bodytext {
