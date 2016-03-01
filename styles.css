@@ -71,6 +71,7 @@ h1 {
 
 #doomPhoto {
   margin-bottom: 2em;
+  max-width: 60%;
 }
 
 #bodytext {
