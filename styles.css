@@ -85,12 +85,13 @@ img {
 }
 
 #doomlogo {
-  max-width: 20%;
+  min-width: 10%;
+  max-width: 15%;
 }
 
 #doomGuy {
-  margin-top: 15em;
-  max-width: 60%;
+  margin-top: 10em;
+  max-width: 40%;
 }
 
 #bodytext {
