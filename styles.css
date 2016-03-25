@@ -66,7 +66,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  text-color: #FFFFFF;
+  color: #FFFFFF;
   font-family: 'Ubuntu';
   padding: .75em;
   text-align: center;
@@ -83,7 +83,7 @@ img {
 }
 
 #bodytext {
-  text-color: #FFFFFF;
+  color: #FFFFFF;
   font-family: 'Ubuntu';
   text-align: left;
   margin-left: 10%;
