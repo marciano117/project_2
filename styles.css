@@ -74,11 +74,17 @@ img {
   
 }
 
+.header-cont {
+  width: 100%;
+  position: fixed;
+  top: 0em;
+}
+
+.header {
+  margin: 0 auto;
+}
+
 #doomlogo {
-  position: relative;
-  background-color: #000000;
-  
-  margin-top: 0em;
   max-width: 20%;
 }
 
