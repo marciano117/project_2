@@ -53,12 +53,12 @@ table {
 
 body {
   background-color: #000000;
+  color: #FFFFFF;
+  font-family: 'Ubuntu';
 }
 
 h2 {
   font-size: 1.5em;
-  color: #FFFFFF;
-  font-family: 'Ubuntu';
   padding: .75em;
   text-align: center;
   margin-bottom: 1em;
@@ -95,8 +95,6 @@ img {
 }
 
 #bodytext {
-  color: #FFFFFF;
-  font-family: 'Ubuntu';
   text-align: left;
   margin-left: 10%;
   margin-right: 10%;
