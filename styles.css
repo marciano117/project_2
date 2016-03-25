@@ -75,9 +75,10 @@ img {
 }
 
 #doomlogo {
-  position: fixed;
+  position: relative;
   background-color: #000000;
-
+  
+  margin-top: 0em;
   max-width: 20%;
 }
 
