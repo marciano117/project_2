@@ -52,7 +52,7 @@ table {
 /*CSS Reset ends here! -----------------------------  */
 
 body {
-  background-color: #AD9F9D;
+  background-color: #000000;
 }
 
 h1 {
@@ -66,6 +66,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+  text-color: #FFFFFF;
   font-family: 'Ubuntu';
   padding: .75em;
   text-align: center;
@@ -82,6 +83,7 @@ img {
 }
 
 #bodytext {
+  text-color: #FFFFFF;
   font-family: 'Ubuntu';
   text-align: left;
   margin-left: 10%;
