@@ -114,6 +114,11 @@ img {
   line-height: 1.25em;
 }
 
+#doomCover {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media only screen and (max-width: 960px) {
   #bodytext {
     text-align: left;
