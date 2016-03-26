@@ -89,9 +89,16 @@ img {
   max-width: 15em;
 }
 
+@media (max-width: 960px) {
+    /* For mobile devices: */
+    #doomscreenshot {
+        width: 80%;
+    }
+}
+
 #doomscreenshot {
   margin-top: 10em;
-  max-width: 60%;
+  max-width: 50%;
 }
 
 #bodytext {
