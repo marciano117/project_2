@@ -59,6 +59,9 @@ body {
   color: #FFFFFF;
   font-family: 'Ubuntu';
 }
+p, ul {
+  margin-bottom: 1em;
+}
 
 h2 {
   font-size: 1.5em;
