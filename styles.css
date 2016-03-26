@@ -92,7 +92,7 @@ img {
   max-width: 15em;
 }
 
-@media (max-width: 960px) {
+@media only screen and (max-width: 960px) {
     /* For mobile devices: */
     #doomscreenshot {
         width: 80%;
