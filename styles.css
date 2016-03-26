@@ -32,6 +32,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+
+  /* Fallback font */
+  font-family: "Courier New", monospace;
 }
 ol, ul {
 	list-style: none;
@@ -55,9 +58,6 @@ body {
   background-color: #000000;
   color: #FFFFFF;
   font-family: 'Ubuntu';
-
-  /* Fallback font */
-  font-family: "Courier New", monospace;
 }
 
 h2 {
