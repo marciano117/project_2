@@ -97,6 +97,7 @@ img {
 }
 
 #doomscreenshot {
+  text-align: center;
   margin-top: 10em;
   max-width: 50%;
 }
